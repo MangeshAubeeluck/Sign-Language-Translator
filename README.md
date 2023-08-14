@@ -22,4 +22,7 @@ A small demo about how the sign langauge translator works</br>
 
 
 
+https://github.com/MangeshAubeeluck/Sign-Language-Translator/assets/52622374/a146587f-4d0b-45a3-be40-57b7b598c7ad
+
+
 
