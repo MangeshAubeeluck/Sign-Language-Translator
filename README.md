@@ -1,5 +1,5 @@
 # Sign-Language-Translator 
-User Guide 
+#User Guide </br>
 Step 1: Open the project in PyCharm.</br>
 Step 2: Run the translator.py so that it starts the program.</br>
 Step 3: Check if the user has landmarks on his/her hands.</br>
@@ -8,9 +8,8 @@ Step 4: Do a gesture until it appears on the black rectangle.</br>
 Step 5: The user can use these buttons on the top of the screen and on the right of the screen.</br>
 &nbsp;Each button has a functionality.</br>
  &nbsp;&nbsp; • The AUD Button is for the audio output.</br>
- &nbsp;&nbsp; • The RST Button will reset the black rectangle that it will clear all the text saved
-&nbsp;&nbsp; there.</br>
-  &nbsp;&nbsp;• The BS Button is the backspace function.</br>
+ &nbsp;&nbsp; • The RST Button will reset the black rectangle that it will clear all the text saved there.</br>
+ &nbsp;&nbsp;• The BS Button is the backspace function.</br>
  &nbsp;&nbsp; • The two right orange buttons will display the text in the black rectangle.</br>
  &nbsp;&nbsp; • These grey buttons when chosen will display the text in the black rectangle.</br>
 
