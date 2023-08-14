@@ -18,7 +18,7 @@ Step 5: The user can use these buttons on the top of the screen and on the right
 Step 6: To choose these buttons the user must use his/her tip of index.</br>
 Step 7: To exit the program the user must press Q on his/her keyboard.</br>
 
-A small demo about how the sign langauge translator works></br>
+A small demo about how the sign langauge translator works</br>
 
 
 
