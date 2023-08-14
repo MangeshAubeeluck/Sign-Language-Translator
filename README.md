@@ -9,7 +9,7 @@ Step 5: The user can use these buttons on the top of the screen and on the right
 &nbsp;Each button has a functionality.</br>
  &nbsp;&nbsp; • The AUD Button is for the audio output.</br>
  &nbsp;&nbsp; • The RST Button will reset the black rectangle that it will clear all the text saved there.</br>
- &nbsp;&nbsp;• The BS Button is the backspace function.</br>
+ &nbsp;&nbsp; • The BS Button is the backspace function.</br>
  &nbsp;&nbsp; • The two right orange buttons will display the text in the black rectangle.</br>
  &nbsp;&nbsp; • These grey buttons when chosen will display the text in the black rectangle.</br>
 
