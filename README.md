@@ -1,5 +1,5 @@
 # Sign-Language-Translator 
-#User Guide </br>
+## User Guide </br>
 Step 1: Open the project in PyCharm.</br>
 Step 2: Run the translator.py so that it starts the program.</br>
 Step 3: Check if the user has landmarks on his/her hands.</br>
